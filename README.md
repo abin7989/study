@@ -1,4 +1,4 @@
-# **SSAFY 8th Algorithm-Study**
+# **SSAFY 8th Study**
 
 ### SSAFY 8기 동기들로 구성된<br>알고리즘 및 CS 공부를 위한 모각코 스터디입니다.
 
